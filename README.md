@@ -59,7 +59,7 @@ Responsável por:
 /
 ├── episodio/
 │ └── Podcast_editado.mp4
-├── images/
+├── img/
 │ └── capaPodcast.png
 ├── prompts.pdf
 ├── README.md
