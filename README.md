@@ -5,21 +5,6 @@ Com o objetivo de demonstrar como diferentes IAs podem ser integradas para criar
 
 ---
 
-## 🚀 Sobre o Podcast
-
-**A Sociedade da Interface** é um podcast semanal apresentado por **Mirim**, com episódios curtos e diretos ao ponto.  
-Aqui você encontra:
-
-- Tendências de frontend  
-- Boas práticas  
-- Curiosidades  
-- Ferramentas úteis  
-- Conteúdo simples e fácil de entender  
-
-Sempre com uma pegada nerd, criativa e descontraída.
-
----
-
 ## 🤖 Como o Podcast Foi Criado
 
 Este podcast foi produzido **100% com Inteligências Artificiais**, cada uma com um papel específico no processo.
