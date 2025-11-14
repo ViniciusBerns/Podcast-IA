@@ -1,69 +1,81 @@
-🎙️ A Sociedade da Interface – O Podcast Feito com IA
+# 🎙️ A Sociedade da Interface – O Podcast Feito com IA
 
-Bem-vindo ao repositório oficial do A Sociedade da Interface – Uma saga sobre tendências, boas práticas e a arte da interface, um podcast totalmente criado com o auxílio de Inteligências Artificiais, para 
-demonstrar como diferentes ferramentas de IA podem ser combinadas para criar um produto digital completo.
+Bem-vindo ao repositório oficial do **A Sociedade da Interface – Uma saga sobre tendências, boas práticas e a arte da interface**, um podcast criado **inteiramente com Inteligências Artificiais**.
 
-🤖 Como o Podcast Foi Criado
+O objetivo deste projeto é explorar o universo do frontend de forma leve, divertida e acessível para iniciantes — enquanto demonstra como diferentes IAs podem ser integradas para criar um produto digital completo.
 
-Este podcast foi produzido inteiramente com Inteligências Artificiais, cada uma com um papel específico no processo:
+---
 
-🧠 ChatGPT – Roteirista (Seção Roteirista no prompts.pdf)
+## 🚀 Sobre o Podcast
+
+**A Sociedade da Interface** é um podcast semanal apresentado por **Mirim**, com episódios curtos e diretos ao ponto.  
+Aqui você encontra:
+
+- Tendências de frontend  
+- Boas práticas  
+- Curiosidades  
+- Ferramentas úteis  
+- Conteúdo simples e fácil de entender  
+
+Sempre com uma pegada nerd, criativa e descontraída.
+
+---
+
+## 🤖 Como o Podcast Foi Criado
+
+Este podcast foi produzido **100% com Inteligências Artificiais**, cada uma com um papel específico no processo.
+
+### 🧠 ChatGPT – Roteirista  
+*(Prompts usados: seção **Roteirista** no arquivo `prompts.pdf`)*
+
+Responsável por gerar:
+- Estrutura dos episódios  
+- Introdução, curiosidades e encerramento  
+- Estilo narrativo inspirado no canal *Ei Nerd*  
+
+---
+
+### 🎨 LeonardoAI – Artista  
+*(Prompts usados: seção **Artista** no arquivo `prompts.pdf`)*
 
 Responsável por:
+- Criar as artes do podcast  
+- Gerar capas e variações visuais  
 
-Criar o roteiro dos episódios
+---
 
-Seguir o estilo narrativo definido
-
-Estruturar introdução, curiosidades e finalização
-
-Os prompts usados para gerar os roteiros estão descritos na seção Roteirista do arquivo Prompts.pdf incluído no projeto.
-
-🎨 LeonardoAI – Artista (Seção Artista no Prompts.pdf)
+### 🎤 ElevenLabs – Narrador  
+*(Texto usado: seção **Roteiro Episódio 1** no arquivo `prompts.pdf`)*
 
 Responsável por:
+- Narrar o episódio final  
+- Criar a voz do apresentador **Mirim**  
+- Gerar o áudio oficial do podcast  
 
-Criar a arte visual do podcast
+---
 
-Gerar capas e variações ilustrativas conforme definido nos prompts
-
-Os prompts utilizados para gerar imagens estão na seção Artista do arquivo prompts.pdf.
-
-🎤 ElevenLabs – Narrador (Seção Roteiro Episódio 1 no Prompts.pdf)
-
-Responsável por:
-
-Interpretar e narrar o roteiro final
-
-Criar a voz do apresentador Mirim
-
-Gerar a versão em áudio do episódio
-
-O texto final do episódio 1, usado para a narração, está registrado na seção Roteiro Episódio 1 dentro do arquivo Prompts.pdf.
-
-📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório
+```
 /
-├── audio/
-│   └── episodio1.mp3
+├── episodio/
+│ └── Podcast_editado.mp4
 ├── images/
-│   └── capa-podcast.png
-├── Prompts.pdf
+│ └── capaPodcast.png
+├── prompts.pdf
 ├── README.md
+```
+---
 
-📘 Como Reproduzir o Processo
+## 📘 Como Reproduzir o Processo
 
-Se você deseja recriar o podcast ou usá-lo como base para o seu próprio projeto, siga estas etapas:
+Para recriar o podcast ou usá-lo como base para outro projeto, siga estes passos:
 
-Abra o arquivo prompts.pdf.
+1. Abra o arquivo **`prompts.pdf`**.  
+2. Use os prompts na ordem:
+   - 🧠 **Roteirista** → gerar roteiro no ChatGPT  
+   - 🎨 **Artista** → gerar imagens no LeonardoAI  
+   - 🎤 **Roteiro Episódio 1** → gerar narração no ElevenLabs  
+3. Combine os resultados (arte + roteiro + áudio).  
+4. Publique no seu serviço de podcast preferido.
 
-Siga os prompts na ordem:
-
-Roteirista → gerar roteiro no ChatGPT
-
-Artista → gerar artes no LeonardoAI
-
-Roteiro Episódio 1 → gerar narração no ElevenLabs
-
-Monte o episódio final combinando arte + roteiro + áudio.
-
-Publique no seu agregador favorito de podcast.
+---
