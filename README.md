@@ -1,8 +1,7 @@
 # 🎙️ A Sociedade da Interface – O Podcast Feito com IA
 
 Bem-vindo ao repositório oficial do **A Sociedade da Interface – Uma saga sobre tendências, boas práticas e a arte da interface**, um podcast criado **inteiramente com Inteligências Artificiais**.
-
-O objetivo deste projeto é explorar o universo do frontend de forma leve, divertida e acessível para iniciantes — enquanto demonstra como diferentes IAs podem ser integradas para criar um produto digital completo.
+Com o objetivo de demonstrar como diferentes IAs podem ser integradas para criar um produto digital completo.
 
 ---
 
